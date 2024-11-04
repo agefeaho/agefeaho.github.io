@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://agefeaho.github.io/GAg/sitemap_index.txt
+Sitemap: https://agefeaho.github.io/NdO/sitemap_index.txt
+Sitemap: https://agefeaho.github.io/VEj/sitemap_index.txt
+Sitemap: https://agefeaho.github.io/jRe/sitemap_index.txt
